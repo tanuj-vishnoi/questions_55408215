@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1553845846538" stop="1553845857196" version="1.5.0" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Default suite : Default test</name>
+    <title>Default suite : Default test</title>
+    <test-cases>
+        <test-case start="1553845846846" stop="1553845857136" status="passed">
+            <name>test</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Default suite"/>
+                <label name="testGroup" value="Default test"/>
+                <label name="testClass" value="projecttest.TestClass"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="DLLA1445"/>
+                <label name="thread" value="13440@DLLA1445.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1553845846846" stop="1553845857136" status="passed">
+            <name>test</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Default suite"/>
+                <label name="testGroup" value="Default test"/>
+                <label name="testClass" value="projecttest.TestClass"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="DLLA1445"/>
+                <label name="thread" value="13440@DLLA1445.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>
